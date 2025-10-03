@@ -1,0 +1,6 @@
+numpy
+qutip
+imageio
+scipy
+PIL
+moviepy
